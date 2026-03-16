@@ -6,10 +6,7 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "android": {
-      "package": "com.oseunome.motoplanner"
-    },
-    "eas": {
-      "projectId": "teu-id-aqui"
+      "package": "com.viagem.motoplanner"
     }
   }
 }
